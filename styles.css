@@ -1,0 +1,16 @@
+input {
+  padding: 5px 10px;
+  border-radius: 5px;
+  outline: none;
+  font-size: 1.4em;
+  border: 1px dotted crimson;
+  color: crimson;
+  font-family: "Montserrat", sans-serif;
+}
+#saludo {
+  margin-left: 7px;
+  font-size: 1.2em;
+  width: 100px;
+  color: #1162ac;
+  background-color: pink;
+}
